@@ -55,10 +55,6 @@ It extends the official OpenTelemetry demo by:
 - Deployed OpenTelemetry YAML and kube-prometheus-stack Helm chart
 - Configured port-forwarding, validated pod status, Grafana UI
 
-### 🔍 Issue Fixes
-
-See [Full Issue Summary](https://www.notion.so/md-1fcb602155f08090ab07de38fb82318a?pvs=21)
-
 ---
 
 ## 📈 4. Observability & Monitoring
